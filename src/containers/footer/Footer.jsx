@@ -22,20 +22,20 @@ const Footer = () => {
           <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
         </div>
         <div className="gpt3__footer-links_div">
-          <a href="">Links</a>
+          <p>Links</p>
           <a href="">Overons</a>
           <a href="">Social Media</a>
           <a href="">Counters</a>
           <a href="">Contact</a>
         </div>
         <div className="gpt3__footer-links_div">
-          <a href="">Company</a>
+          <p>Company</p>
           <a href="">Terms & Conditions</a>
           <a href="">Privacy Policy Media</a>
           <a href="">Contact</a>
         </div>
         <div className="gpt3__footer-links_div">
-          <a href="">Get in touch</a>
+          <p>Get in touch</p>
           <p>Crechterwoord K12 182 DK Alknjkcb</p>
           <p>085-132567</p>
           <a href="">info@payme.net</a>
